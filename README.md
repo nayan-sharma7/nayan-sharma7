@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Computer Science Grad | 💻 Full-Stack Developer<br>🚀 Building projects, learning new technologies & solving problems<br>📚 Always learning. Always building.<br>🏋️ Gym | 🏃 Running | 💻 Coding<br>⚡ Fun fact: I enjoy solving problems almost as much as I enjoy creating them.👨‍💻 Computer Science Grad | 💻 Full-Stack Developer
+👨‍💻 Computer Science Grad | 💻 Full-Stack Developer<br>🚀 Building projects, learning new technologies & solving problems<br>📚 Always learning. Always building.<br>🏋️ Gym | 🏃 Running | 💻 Coding<br>⚡ Fun fact: I enjoy solving problems almost as much as I enjoy creating them.
 
 
 ## 🌐 Socials:
